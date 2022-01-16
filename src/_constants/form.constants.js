@@ -1,0 +1,5 @@
+export const formConstants = {
+  ADD_RECIPE: 'ADD_RECIPE',
+  FILTER_RECIPES: 'FILTER_RECIPES',
+  GET_RECIPES: 'GET_RECIPES',
+};
